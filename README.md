@@ -5,7 +5,8 @@
 这里是我的网站的模板页，您可以预览我的上线版本
 
 ## Screenshot 截图
-![ScreenShot](https://user-images.githubusercontent.com/14857984/129847923-33ea7ccd-90ae-48a1-864c-464bf170bc0d.png)
+
+![ScreenShot](./images/index-demo.png)
 
 ## Features 特色
 
